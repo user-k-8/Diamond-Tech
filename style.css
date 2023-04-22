@@ -3,7 +3,7 @@
 /* Navigation menu */
 
 .nav-menu{
-    background-color:rgb(247, 247, 249);
+    background-color:rgb(233, 236, 243);
    width: 100%;
 }
 
@@ -24,11 +24,11 @@
 
 .home{
     padding-top: 80px;
-    background-color:rgb(247, 247, 249);
+    background-color:rgb(233, 236, 243);
 }
 #Home{
     
-    background-color:rgb(233, 236, 243);
+   background-color:rgb(247, 247, 249);
    max-width: 80%;
     
 }
