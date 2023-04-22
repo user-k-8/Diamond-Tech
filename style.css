@@ -1,0 +1,138 @@
+
+
+/* Navigation menu */
+
+.nav-menu{
+    background-color:rgb(247, 247, 249);
+   width: 100%;
+}
+
+
+.logo{
+ width: 40px;
+ height: 40px;
+}
+
+/* Hero section */
+
+
+.hero-heading{
+    font-size: 60px;
+    color: rgb(33, 155, 235);
+    
+}
+
+.home{
+    padding-top: 80px;
+    background-color:rgb(247, 247, 249);
+}
+#Home{
+    
+    background-color:rgb(233, 236, 243);
+   max-width: 80%;
+    
+}
+
+
+/* hero  slides*/
+
+.outer-slides,
+.inner-slides{
+  
+    height: 450px; 
+    text-align: center; 
+    margin-left: 0%; 
+    width: 100%
+
+}
+
+.slide-images{
+    
+   width:400px;
+   height:350px;
+
+
+}
+
+.slide-container{
+    margin: auto;
+     width:60%; 
+     min-width: 350px; 
+}
+
+
+/* About us section */
+#About{
+ 
+
+        background-color:rgb(233, 236, 243);
+}
+
+.about-us{
+
+    background-color:rgb(233, 236, 243);
+}
+
+.about-heading{
+    color: rgb(33, 155, 235);
+}
+
+
+
+/* Our products */
+#Products{
+    background-color:rgb(247, 247, 249);
+}
+
+.products-heading{
+    color: rgb(33, 155, 235);
+    text-align: center;
+}
+
+.product-sub-head{
+    color: rgb(58, 57, 57);
+    text-align: center;
+}
+
+.product-images{
+    height: 300px; 
+    width: 350px; 
+    text-align: center;
+     margin: auto;
+}
+
+.products-par{
+    padding-top: 30px;
+}
+
+/* Contact  us */
+.contact-heading{
+    
+    color: rgb(33, 155, 235);
+
+}
+
+#Contact{
+    background-color:rgb(233, 236, 243);
+}
+
+.footer{
+    background-color:rgb(247, 247, 249);
+}
+
+
+
+
+
+    @media  (max-width: 700px) {
+        /* … */
+
+        #Home{
+            padding-top: 80px;
+           
+           max-width: 100%;
+           
+           
+        }
+
+    }
