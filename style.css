@@ -135,5 +135,12 @@
            
            
         }
+        
+         .slide-container{
+            margin: auto;
+             width:90%; 
+             min-width: 290px;
+             
+        }
 
     }
