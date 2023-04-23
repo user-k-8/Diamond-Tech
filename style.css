@@ -36,15 +36,6 @@
 
 /* hero  slides*/
 
-.outer-slides,
-.inner-slides{
-  
-    height: 450px; 
-    text-align: center; 
-    margin-left: 0%; 
-    width: 100%
-
-}
 
 .slide-images{
    min-height: 350px;
@@ -143,12 +134,5 @@
              
         }
         
-        .slide-images{
-   
-   width:290px;
-   height:290px;
-   width:90%;
-   height:100%;
-  max-width: 90%;
-
+        
     }
